@@ -1,2 +1,2 @@
 # JustForKnowledge
-This repository is only for my understanding.
+This repository is only for my understandings.
